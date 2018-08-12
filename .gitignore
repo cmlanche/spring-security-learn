@@ -21,3 +21,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.idea
+/security/.idea
+/security/target
+/bloogle-security-core/.idea
+/bloogle-security-core/target
+/bloogle-security-app/.idea
+/bloogle-security-app/target
+/bloogle-security-browser/.idea
+/bloogle-security-browser/target
+/bloogle-security-demo/.idea
+/bloogle-security-demo/target
