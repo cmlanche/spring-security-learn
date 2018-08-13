@@ -1,4 +1,4 @@
-package io.bloogle.demo;
+package io.bloogle;
 
 import io.bloogle.demo.exceptions.MyExecption;
 import org.springframework.boot.SpringApplication;
